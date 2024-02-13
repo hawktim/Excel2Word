@@ -18,6 +18,18 @@ namespace Excel2Word
                 Console.ReadKey();
                 return;
             }
+            try
+            {
+                if (File.Exists(outFile))
+                    File.Delete(outFile);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Возникли проблемы с удалением файла");
+                Console.WriteLine(ex.Message);
+                Console.ReadKey();
+                return;
+            }
 
             var readXls = new ReadXls();
             Console.WriteLine("Чтение файла данных");
@@ -26,6 +38,7 @@ namespace Excel2Word
             var writeWord = new BuildWord();
             writeWord.WriteFile(data, outFile);
             Console.WriteLine("Данные успешно сохраненны в файл:" + outFile);
+            System.Diagnostics.Process.Start(outFile);
             Console.ReadKey();
         }
     }
