@@ -1,0 +1,17 @@
+C:\WORK\Excel2Word\obj\Debug\Excel2Word.csproj.AssemblyReference.cache
+C:\WORK\Excel2Word\obj\Debug\Excel2Word.csproj.CoreCompileInputs.cache
+C:\WORK\Excel2Word\bin\Debug\Excel2Word.exe.config
+C:\WORK\Excel2Word\bin\Debug\Excel2Word.exe
+C:\WORK\Excel2Word\bin\Debug\Excel2Word.pdb
+C:\WORK\Excel2Word\obj\Debug\Excel2Word.csproj.CopyComplete
+C:\WORK\Excel2Word\obj\Debug\Excel2Word.exe
+C:\WORK\Excel2Word\obj\Debug\Excel2Word.pdb
+C:\WORK\Excel2Word\bin\Debug\LinqToExcel.dll
+C:\WORK\Excel2Word\bin\Debug\Remotion.Data.Linq.dll
+C:\WORK\Excel2Word\bin\Debug\Remotion.dll
+C:\WORK\Excel2Word\bin\Debug\Remotion.Interfaces.dll
+C:\WORK\Excel2Word\bin\Debug\LinqToExcel.xml
+C:\WORK\Excel2Word\bin\Debug\DocumentFormat.OpenXml.dll
+C:\WORK\Excel2Word\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\WORK\Excel2Word\bin\Debug\DocumentFormat.OpenXml.xml
+C:\WORK\Excel2Word\bin\Debug\DocumentFormat.OpenXml.Framework.xml
